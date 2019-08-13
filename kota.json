@@ -1,0 +1,39 @@
+{
+  kota: [
+    {
+      id: 1,
+      image: '',
+      name: 'bandung'
+    },
+    {
+       id: 2,
+      image: '',
+      name: 'denpasar'
+    },
+    {
+       id: 3,
+      image: '',
+      name: 'jakarta'
+    },
+    {
+       id: 4,
+      image: '',
+      name: 'jogja'
+    },
+    {
+       id: 5,
+      image: '',
+      name: 'malang'
+    },
+    {
+       id: 6,
+      image: '',
+      name: 'medan'
+    },
+    {
+       id: 7,
+      image: '',
+      name: 'surabaya'
+    },
+  ]
+}
